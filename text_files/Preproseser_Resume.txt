@@ -1,0 +1,7 @@
+My name is Luis Negrin
+I study Computer Sciecens on Saint Peters University
+My favorit Subject is Data Structures and algorithms
+
+My favorit programing language is c++
+My favorite IDE is Visual Studio
+
